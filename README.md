@@ -1,4 +1,8 @@
 # Jack-sPortfolio
+
+![image](https://github.com/jackchamb/Jack-sPortfolio/assets/95665673/2880c217-098d-47cd-b807-da883e9afa5d)
+
+
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
 THEN I am presented with a page containing a header, a section for content, and a footer
