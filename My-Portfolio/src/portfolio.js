@@ -1,5 +1,5 @@
 const header = {
-    homepage: 'https://rajshekhar26.github.io/cleanfolio',
+    homepage: '',
     title: 'JC.',
   }
   
@@ -7,7 +7,7 @@ const header = {
     name: 'Jack Chamberlain',
     role: 'Full Stack Web Developer',
     description:
-      'My name is Jack Chamberlain i decided after studying Criminal Justice in college to study programing through the UT. I am a big fan of video games and the community and quickly fell in love with programming.',
+      'After studying Criminal Justice in college, i decided to earn a certificate as a Full Stack Developer from UT.',
     resume: "file:///C:/Users/dogzz/Downloads/Jack's%202022%20Resume.pdf",
     social: {
       linkedin: 'https://www.linkedin.com/in/jack-chamberlain-7aa437227/',
